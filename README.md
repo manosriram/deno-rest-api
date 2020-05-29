@@ -9,5 +9,4 @@ API:
 /get_all_products: Returns all products.        GET
 /get/<product_id>: Return the product with id <product_id>      GET
 /delete/:id: Delete the product with id <product_id>    GET
-
 ```
